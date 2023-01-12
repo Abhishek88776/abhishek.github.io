@@ -1,0 +1,87 @@
+header h1{
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.hero{
+    background-color: #333f50 ;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.hero h2{
+    line-height: 1px;
+}
+
+.hero h3{
+    line-height: 1px;
+    font-size: 15px;
+    font-weight: 100;
+    color: rgb(210, 210, 210);
+    margin-bottom: 30px;
+}
+
+.block{
+    margin-right: 20px;
+}
+
+.block:nth-last-child(4){
+    display: block;
+}
+
+.hero span a{
+    color: white;
+}
+
+.edu h3{
+    text-decoration: underline;
+}
+
+.hacker{
+    height: 20px;
+    width: 20px;
+    margin-top: 2px;
+}
+
+table{
+    text-align: center;
+}
+
+.personal ul{
+    line-height: 8px;
+}
+
+.personal ul li{
+    line-height: 1px;
+    padding-bottom: 15px;
+}
+
+.personal h3{
+    text-decoration: underline;
+}
+
+.profile h3{
+    text-decoration: underline;
+}
+
+.cert h3{
+    text-decoration: underline;
+}
+
+.skills h3{
+    text-decoration: underline;
+}
+
+.hob h3{
+    text-decoration: underline;
+}
+
+.qualities h3{
+    text-decoration: underline;
+}
+
+.lang h3{
+    text-decoration: underline;
+}
+
